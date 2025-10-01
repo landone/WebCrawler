@@ -1,5 +1,5 @@
-# Private info JSONs
-./*.json
+# Private info
+user_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
